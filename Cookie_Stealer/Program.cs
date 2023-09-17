@@ -10,7 +10,7 @@ using System.Text.Json;
 
 class Program
 {
-    public const string WEBHOOK_URL = "https://discord.com/api/webhooks/1130558288338092083/RX7Hh4tqYrIOUNca0qhqDc5hprGSCGEafQIh5OGVxwHhbNI10oCWBqSEG1bO1xLaZy2q"; // Change this
+    public const string WEBHOOK_URL = ""; // Change this
 
     public static void Main(string[] args)
     {
