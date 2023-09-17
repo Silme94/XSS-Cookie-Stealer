@@ -1,0 +1,14 @@
+C:\Users\Salaheddine\source\repos\Cookie_Stealer\Cookie_Stealer\bin\Debug\net7.0\Cookie_Stealer.exe
+C:\Users\Salaheddine\source\repos\Cookie_Stealer\Cookie_Stealer\bin\Debug\net7.0\Cookie_Stealer.deps.json
+C:\Users\Salaheddine\source\repos\Cookie_Stealer\Cookie_Stealer\bin\Debug\net7.0\Cookie_Stealer.runtimeconfig.json
+C:\Users\Salaheddine\source\repos\Cookie_Stealer\Cookie_Stealer\bin\Debug\net7.0\Cookie_Stealer.dll
+C:\Users\Salaheddine\source\repos\Cookie_Stealer\Cookie_Stealer\bin\Debug\net7.0\Cookie_Stealer.pdb
+C:\Users\Salaheddine\source\repos\Cookie_Stealer\Cookie_Stealer\obj\Debug\net7.0\Cookie_Stealer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salaheddine\source\repos\Cookie_Stealer\Cookie_Stealer\obj\Debug\net7.0\Cookie_Stealer.AssemblyInfoInputs.cache
+C:\Users\Salaheddine\source\repos\Cookie_Stealer\Cookie_Stealer\obj\Debug\net7.0\Cookie_Stealer.AssemblyInfo.cs
+C:\Users\Salaheddine\source\repos\Cookie_Stealer\Cookie_Stealer\obj\Debug\net7.0\Cookie_Stealer.csproj.CoreCompileInputs.cache
+C:\Users\Salaheddine\source\repos\Cookie_Stealer\Cookie_Stealer\obj\Debug\net7.0\Cookie_Stealer.dll
+C:\Users\Salaheddine\source\repos\Cookie_Stealer\Cookie_Stealer\obj\Debug\net7.0\refint\Cookie_Stealer.dll
+C:\Users\Salaheddine\source\repos\Cookie_Stealer\Cookie_Stealer\obj\Debug\net7.0\Cookie_Stealer.pdb
+C:\Users\Salaheddine\source\repos\Cookie_Stealer\Cookie_Stealer\obj\Debug\net7.0\Cookie_Stealer.genruntimeconfig.cache
+C:\Users\Salaheddine\source\repos\Cookie_Stealer\Cookie_Stealer\obj\Debug\net7.0\ref\Cookie_Stealer.dll
