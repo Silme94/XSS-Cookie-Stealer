@@ -7,7 +7,7 @@ Clone the project using :
 git clone https://github.com/Silme94/XSS-Cookie-Stealer
 ```
 
-Build anr run the project using :
+Build and run the project using :
 ```
 dotnet run
 ```
